@@ -1810,3 +1810,7 @@ table {
     display: flex;
     align-items: center;
 }
+.kysymys {
+    width:100%;
+    margin-bottom:15px;
+  }
